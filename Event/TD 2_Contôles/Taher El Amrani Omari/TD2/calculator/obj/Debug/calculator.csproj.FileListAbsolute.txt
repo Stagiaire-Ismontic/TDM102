@@ -1,0 +1,9 @@
+C:\Users\Stagiaire\Desktop\Taher TPs and mini projet\calculatrice\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Stagiaire\Desktop\Taher TPs and mini projet\calculatrice\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Stagiaire\Desktop\Taher TPs and mini projet\calculatrice\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Stagiaire\Desktop\Taher TPs and mini projet\calculatrice\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Stagiaire\Desktop\Taher TPs and mini projet\calculatrice\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Stagiaire\Desktop\Taher TPs and mini projet\calculatrice\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Stagiaire\Desktop\Taher TPs and mini projet\calculatrice\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\Stagiaire\Desktop\Taher TPs and mini projet\calculatrice\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Stagiaire\Desktop\Taher TPs and mini projet\calculatrice\calculator\calculator\obj\Debug\calculator.pdb

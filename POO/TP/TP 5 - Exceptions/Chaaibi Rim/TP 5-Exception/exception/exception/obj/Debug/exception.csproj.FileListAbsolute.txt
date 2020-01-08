@@ -1,0 +1,2 @@
+E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 7-Exeption\exception\exception\bin\Debug\exception.exe.config
+E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 7-Exeption\exception\exception\obj\Debug\exception.csprojResolveAssemblyReference.cache

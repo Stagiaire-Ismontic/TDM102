@@ -1,0 +1,9 @@
+C:\Users\TP\Desktop\Taher TPs and mini projet\calculatrice\TD1\TD3\TD3\bin\Debug\TD3.exe.config
+C:\Users\TP\Desktop\Taher TPs and mini projet\calculatrice\TD1\TD3\TD3\bin\Debug\TD3.exe
+C:\Users\TP\Desktop\Taher TPs and mini projet\calculatrice\TD1\TD3\TD3\bin\Debug\TD3.pdb
+C:\Users\TP\Desktop\Taher TPs and mini projet\calculatrice\TD1\TD3\TD3\obj\Debug\TD3.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\Taher TPs and mini projet\calculatrice\TD1\TD3\TD3\obj\Debug\TD3.Properties.Resources.resources
+C:\Users\TP\Desktop\Taher TPs and mini projet\calculatrice\TD1\TD3\TD3\obj\Debug\TD3.csproj.GenerateResource.Cache
+C:\Users\TP\Desktop\Taher TPs and mini projet\calculatrice\TD1\TD3\TD3\obj\Debug\TD3.exe
+C:\Users\TP\Desktop\Taher TPs and mini projet\calculatrice\TD1\TD3\TD3\obj\Debug\TD3.pdb
+C:\Users\TP\Desktop\Taher TPs and mini projet\calculatrice\TD1\TD3\TD3\obj\Debug\TD3.Birthday.resources

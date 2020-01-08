@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\Tp3\Tp3\bin\Debug\Tp3.exe.config
+C:\Users\DELL\source\repos\Tp3\Tp3\bin\Debug\Tp3.exe
+C:\Users\DELL\source\repos\Tp3\Tp3\bin\Debug\Tp3.pdb
+C:\Users\DELL\source\repos\Tp3\Tp3\obj\Debug\Tp3.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Tp3\Tp3\obj\Debug\Tp3.Form1.resources
+C:\Users\DELL\source\repos\Tp3\Tp3\obj\Debug\Tp3.Properties.Resources.resources
+C:\Users\DELL\source\repos\Tp3\Tp3\obj\Debug\Tp3.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Tp3\Tp3\obj\Debug\Tp3.exe
+C:\Users\DELL\source\repos\Tp3\Tp3\obj\Debug\Tp3.pdb

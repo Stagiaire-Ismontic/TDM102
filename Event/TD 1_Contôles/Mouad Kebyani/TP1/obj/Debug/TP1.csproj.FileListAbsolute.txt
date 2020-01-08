@@ -1,0 +1,9 @@
+C:\Users\User\Documents\programation evenimentiel\TP1\TP1\bin\Debug\TP1.exe.config
+C:\Users\User\Documents\programation evenimentiel\TP1\TP1\bin\Debug\TP1.exe
+C:\Users\User\Documents\programation evenimentiel\TP1\TP1\bin\Debug\TP1.pdb
+C:\Users\User\Documents\programation evenimentiel\TP1\TP1\obj\Debug\TP1.csprojAssemblyReference.cache
+C:\Users\User\Documents\programation evenimentiel\TP1\TP1\obj\Debug\TP1.Properties.Resources.resources
+C:\Users\User\Documents\programation evenimentiel\TP1\TP1\obj\Debug\TP1.csproj.GenerateResource.cache
+C:\Users\User\Documents\programation evenimentiel\TP1\TP1\obj\Debug\TP1.exe
+C:\Users\User\Documents\programation evenimentiel\TP1\TP1\obj\Debug\TP1.pdb
+C:\Users\User\Documents\programation evenimentiel\TP1\TP1\obj\Debug\TP1.Appwintest.resources

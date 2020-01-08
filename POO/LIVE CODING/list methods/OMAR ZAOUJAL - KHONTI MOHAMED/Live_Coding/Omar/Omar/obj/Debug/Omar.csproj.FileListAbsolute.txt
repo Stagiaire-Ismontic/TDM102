@@ -1,0 +1,6 @@
+C:\Users\Yussuf\Desktop\Live_Coding\Omar\Omar\bin\Debug\Omar.exe.config
+C:\Users\Yussuf\Desktop\Live_Coding\Omar\Omar\bin\Debug\Omar.exe
+C:\Users\Yussuf\Desktop\Live_Coding\Omar\Omar\bin\Debug\Omar.pdb
+C:\Users\Yussuf\Desktop\Live_Coding\Omar\Omar\obj\Debug\Omar.csprojResolveAssemblyReference.cache
+C:\Users\Yussuf\Desktop\Live_Coding\Omar\Omar\obj\Debug\Omar.exe
+C:\Users\Yussuf\Desktop\Live_Coding\Omar\Omar\obj\Debug\Omar.pdb

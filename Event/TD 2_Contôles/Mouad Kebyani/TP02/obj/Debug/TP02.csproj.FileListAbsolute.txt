@@ -1,0 +1,9 @@
+C:\Users\User\Documents\programation evenimentiel\TP02\TP02\bin\Debug\TP02.exe.config
+C:\Users\User\Documents\programation evenimentiel\TP02\TP02\bin\Debug\TP02.exe
+C:\Users\User\Documents\programation evenimentiel\TP02\TP02\bin\Debug\TP02.pdb
+C:\Users\User\Documents\programation evenimentiel\TP02\TP02\obj\Debug\TP02.csprojAssemblyReference.cache
+C:\Users\User\Documents\programation evenimentiel\TP02\TP02\obj\Debug\TP02.Calculatris.resources
+C:\Users\User\Documents\programation evenimentiel\TP02\TP02\obj\Debug\TP02.Properties.Resources.resources
+C:\Users\User\Documents\programation evenimentiel\TP02\TP02\obj\Debug\TP02.csproj.GenerateResource.cache
+C:\Users\User\Documents\programation evenimentiel\TP02\TP02\obj\Debug\TP02.exe
+C:\Users\User\Documents\programation evenimentiel\TP02\TP02\obj\Debug\TP02.pdb

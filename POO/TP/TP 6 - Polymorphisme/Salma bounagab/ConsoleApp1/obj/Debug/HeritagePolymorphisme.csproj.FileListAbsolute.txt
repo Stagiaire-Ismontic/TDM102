@@ -1,0 +1,6 @@
+E:\source\repos\6-Heritage_Polymorphisme\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\source\repos\6-Heritage_Polymorphisme\ConsoleApp1\obj\Debug\HeritagePolymorphisme.csprojResolveAssemblyReference.cache
+E:\source\repos\6-Heritage_Polymorphisme\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\source\repos\6-Heritage_Polymorphisme\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\source\repos\6-Heritage_Polymorphisme\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\source\repos\6-Heritage_Polymorphisme\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

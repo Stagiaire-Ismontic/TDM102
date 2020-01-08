@@ -1,0 +1,9 @@
+C:\Users\TP\Desktop\Taher TPs and mini projet\calculatrice\TD1\TD1\TD1\bin\Debug\TD1.exe.config
+C:\Users\TP\Desktop\Taher TPs and mini projet\calculatrice\TD1\TD1\TD1\bin\Debug\TD1.exe
+C:\Users\TP\Desktop\Taher TPs and mini projet\calculatrice\TD1\TD1\TD1\bin\Debug\TD1.pdb
+C:\Users\TP\Desktop\Taher TPs and mini projet\calculatrice\TD1\TD1\TD1\obj\Debug\TD1.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\Taher TPs and mini projet\calculatrice\TD1\TD1\TD1\obj\Debug\TD1.Form1.resources
+C:\Users\TP\Desktop\Taher TPs and mini projet\calculatrice\TD1\TD1\TD1\obj\Debug\TD1.Properties.Resources.resources
+C:\Users\TP\Desktop\Taher TPs and mini projet\calculatrice\TD1\TD1\TD1\obj\Debug\TD1.csproj.GenerateResource.Cache
+C:\Users\TP\Desktop\Taher TPs and mini projet\calculatrice\TD1\TD1\TD1\obj\Debug\TD1.exe
+C:\Users\TP\Desktop\Taher TPs and mini projet\calculatrice\TD1\TD1\TD1\obj\Debug\TD1.pdb

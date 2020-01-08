@@ -1,0 +1,3 @@
+D:\C#\ikram\2.creation_class\Création_class\Création_class\obj\Debug\netcoreapp3.1\Création_class.csprojAssemblyReference.cache
+D:\C#\ikram\2.creation_class\Création_class\Création_class\obj\Debug\netcoreapp3.1\Création_class.AssemblyInfoInputs.cache
+D:\C#\ikram\2.creation_class\Création_class\Création_class\obj\Debug\netcoreapp3.1\Création_class.AssemblyInfo.cs

@@ -1,0 +1,9 @@
+E:\event\1\ControlWinForm\ControlWinForm\bin\Debug\ControlWinForm.exe.config
+E:\event\1\ControlWinForm\ControlWinForm\bin\Debug\ControlWinForm.exe
+E:\event\1\ControlWinForm\ControlWinForm\bin\Debug\ControlWinForm.pdb
+E:\event\1\ControlWinForm\ControlWinForm\obj\Debug\ControlWinForm.csprojResolveAssemblyReference.cache
+E:\event\1\ControlWinForm\ControlWinForm\obj\Debug\ControlWinForm.Properties.Resources.resources
+E:\event\1\ControlWinForm\ControlWinForm\obj\Debug\ControlWinForm.csproj.GenerateResource.Cache
+E:\event\1\ControlWinForm\ControlWinForm\obj\Debug\ControlWinForm.exe
+E:\event\1\ControlWinForm\ControlWinForm\obj\Debug\ControlWinForm.pdb
+E:\event\1\ControlWinForm\ControlWinForm\obj\Debug\ControlWinForm.FormApplication.resources

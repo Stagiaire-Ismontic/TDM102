@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\TP_Synthese\TP_Synthese\obj\Debug\netcoreapp3.1\TP_Synthese.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\TP_Synthese\TP_Synthese\obj\Debug\netcoreapp3.1\TP_Synthese.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\TP_Synthese\TP_Synthese\obj\Debug\netcoreapp3.1\TP_Synthese.AssemblyInfo.cs
+C:\Users\DELL\source\repos\TP_Synthese\TP_Synthese\bin\Debug\netcoreapp3.1\TP_Synthese.exe
+C:\Users\DELL\source\repos\TP_Synthese\TP_Synthese\bin\Debug\netcoreapp3.1\TP_Synthese.deps.json
+C:\Users\DELL\source\repos\TP_Synthese\TP_Synthese\bin\Debug\netcoreapp3.1\TP_Synthese.runtimeconfig.json
+C:\Users\DELL\source\repos\TP_Synthese\TP_Synthese\bin\Debug\netcoreapp3.1\TP_Synthese.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\TP_Synthese\TP_Synthese\bin\Debug\netcoreapp3.1\TP_Synthese.dll
+C:\Users\DELL\source\repos\TP_Synthese\TP_Synthese\bin\Debug\netcoreapp3.1\TP_Synthese.pdb
+C:\Users\DELL\source\repos\TP_Synthese\TP_Synthese\obj\Debug\netcoreapp3.1\TP_Synthese.dll
+C:\Users\DELL\source\repos\TP_Synthese\TP_Synthese\obj\Debug\netcoreapp3.1\TP_Synthese.pdb

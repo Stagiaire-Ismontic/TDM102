@@ -1,0 +1,8 @@
+C:\Users\SALMA\source\repos\Framework_Class_Librar\Framework_Class_Librar\obj\Debug\Framework_Class_Library.csprojAssemblyReference.cache
+E:\source\repos\7-Framework_Class_Library\Framework_Class_Librar\bin\Debug\Framework_Class_Librar.exe.config
+F:\source\repos\7-Framework_Class_Library\Framework_Class_Librar\obj\Debug\Framework_Class_Library.csprojAssemblyReference.cache
+E:\source\repos\7-Framework_Class_Library\Framework_Class_Librar\bin\Debug\Framework_Class_Librar.exe
+E:\source\repos\7-Framework_Class_Library\Framework_Class_Librar\bin\Debug\Framework_Class_Librar.pdb
+E:\source\repos\7-Framework_Class_Library\Framework_Class_Librar\obj\Debug\Framework_Class_Library.csprojResolveAssemblyReference.cache
+E:\source\repos\7-Framework_Class_Library\Framework_Class_Librar\obj\Debug\Framework_Class_Librar.exe
+E:\source\repos\7-Framework_Class_Library\Framework_Class_Librar\obj\Debug\Framework_Class_Librar.pdb

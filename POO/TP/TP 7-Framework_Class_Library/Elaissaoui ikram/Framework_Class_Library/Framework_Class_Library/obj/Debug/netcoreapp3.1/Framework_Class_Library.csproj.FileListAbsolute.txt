@@ -1,0 +1,11 @@
+C:\Users\P6\Desktop\Framework_Class_Library\Framework_Class_Library\Framework_Class_Library\obj\Debug\netcoreapp3.1\Framework_Class_Library.csprojAssemblyReference.cache
+C:\Users\P6\Desktop\Framework_Class_Library\Framework_Class_Library\Framework_Class_Library\obj\Debug\netcoreapp3.1\Framework_Class_Library.AssemblyInfoInputs.cache
+C:\Users\P6\Desktop\Framework_Class_Library\Framework_Class_Library\Framework_Class_Library\obj\Debug\netcoreapp3.1\Framework_Class_Library.AssemblyInfo.cs
+C:\Users\P6\Desktop\Framework_Class_Library\Framework_Class_Library\Framework_Class_Library\bin\Debug\netcoreapp3.1\Framework_Class_Library.exe
+C:\Users\P6\Desktop\Framework_Class_Library\Framework_Class_Library\Framework_Class_Library\bin\Debug\netcoreapp3.1\Framework_Class_Library.deps.json
+C:\Users\P6\Desktop\Framework_Class_Library\Framework_Class_Library\Framework_Class_Library\bin\Debug\netcoreapp3.1\Framework_Class_Library.runtimeconfig.json
+C:\Users\P6\Desktop\Framework_Class_Library\Framework_Class_Library\Framework_Class_Library\bin\Debug\netcoreapp3.1\Framework_Class_Library.runtimeconfig.dev.json
+C:\Users\P6\Desktop\Framework_Class_Library\Framework_Class_Library\Framework_Class_Library\bin\Debug\netcoreapp3.1\Framework_Class_Library.dll
+C:\Users\P6\Desktop\Framework_Class_Library\Framework_Class_Library\Framework_Class_Library\bin\Debug\netcoreapp3.1\Framework_Class_Library.pdb
+C:\Users\P6\Desktop\Framework_Class_Library\Framework_Class_Library\Framework_Class_Library\obj\Debug\netcoreapp3.1\Framework_Class_Library.dll
+C:\Users\P6\Desktop\Framework_Class_Library\Framework_Class_Library\Framework_Class_Library\obj\Debug\netcoreapp3.1\Framework_Class_Library.pdb

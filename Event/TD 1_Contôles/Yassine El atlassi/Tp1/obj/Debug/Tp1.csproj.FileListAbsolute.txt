@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\Tp1\Tp1\bin\Debug\Tp1.exe.config
+C:\Users\DELL\source\repos\Tp1\Tp1\bin\Debug\Tp1.exe
+C:\Users\DELL\source\repos\Tp1\Tp1\bin\Debug\Tp1.pdb
+C:\Users\DELL\source\repos\Tp1\Tp1\obj\Debug\Tp1.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Tp1\Tp1\obj\Debug\Tp1.Form1.resources
+C:\Users\DELL\source\repos\Tp1\Tp1\obj\Debug\Tp1.Properties.Resources.resources
+C:\Users\DELL\source\repos\Tp1\Tp1\obj\Debug\Tp1.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Tp1\Tp1\obj\Debug\Tp1.exe
+C:\Users\DELL\source\repos\Tp1\Tp1\obj\Debug\Tp1.pdb
